@@ -10,3 +10,4 @@
 
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/belennnfake/demo/badge)](https://securityscorecards.dev/viewer/?uri=github.com/belennnfake/demo)
